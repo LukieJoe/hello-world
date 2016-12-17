@@ -12,6 +12,8 @@ mv to move linux
 
 notepad to edit cmd
 nano to edit linux
+
+less to display text linux --- :q to escape
 '''
 
 print("cmd line help")
