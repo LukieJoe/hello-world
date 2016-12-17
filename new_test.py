@@ -14,6 +14,8 @@ notepad to edit cmd
 nano to edit linux
 
 less to display text linux --- :q to escape
+
+win + r to open run box
 '''
 
 print("cmd line help")
